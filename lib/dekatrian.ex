@@ -54,9 +54,9 @@ defmodule Dekatrian do
 
   ## Examples
 
-      iex> Dekatrian.today()
+      iex> Dekatrian.utc_today()
   """
-  def today do
+  def utc_today do
     Date.utc_today()
     |> from_gregorian()
   end
