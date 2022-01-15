@@ -21,6 +21,8 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/dekatrian](https://hexdocs.pm/dekatrian).
 
+**TODO: Add Usage**
+
 ## Team
 
 This package is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/DekatrianProject/dekatrian_ex/graphs/contributors).
